@@ -13,6 +13,6 @@ public class concept {
     public static void main(String[] args)
     {
         concept obj = new concept();
-        obj.login("pava", 2345);
+        obj.login("water bottle", 2345);
     }
 }
